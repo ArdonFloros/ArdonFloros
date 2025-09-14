@@ -1,6 +1,6 @@
 Hello, my name is Ardon Floros.
-I am currently a sophomore Computer Science major studying at Purdue University, which I plan to graduate from in the spring of 2026.
+I am currently a junior Computer Science major studying at Purdue University. I plan to graduate from their BS/MS program in the fall of 2027.
 
-I am currently looking for a summer research or internship opportunity. I am most interested in robotics and machine learning. Because I plan to graduate in three years, I would like to gain as much experience as possible before entering the job search when I graduate.
+I am most interested in AI/ML, robotics, and systems software.
 
 You can contact me through email at ardonflorossba@gmail.com.
